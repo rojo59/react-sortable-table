@@ -11,7 +11,7 @@ class FaIcon extends Component {
       <i
         className={className}
         style={this.props.style}
-        align="right" />
+      />
     );
   }
 }
