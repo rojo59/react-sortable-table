@@ -34,8 +34,8 @@ var FaIcon = function (_Component) {
       var className = "fa fa-lg " + this.props.icon;
       return _react2.default.createElement("i", {
         className: className,
-        style: this.props.style,
-        align: "right" });
+        style: this.props.style
+      });
     }
   }]);
 
